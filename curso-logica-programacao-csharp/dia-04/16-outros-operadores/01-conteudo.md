@@ -142,9 +142,10 @@ Exemplo:
 object mensagem = "Olá mundo";
 
 int? variavelInt = mensagem as int;         // null — conversão inválida
-bool variavelString = mensagem as string;   // "Olá mundo"
+string variavelString = mensagem as string;   // "Olá mundo"
 ```
 
 > Dica: Acrescentar `?` na declaração de variáveis serve para definir um dado tipo como _nulável_ (apto a receber `null`). Objetos complexos e strings são _nuláveis_ por padrão (abordaremos isso mais à frente).
 
 ## [Exercícios](02-exercicios.md)
+
