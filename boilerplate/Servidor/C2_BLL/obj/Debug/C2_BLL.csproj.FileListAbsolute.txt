@@ -1,0 +1,11 @@
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\obj\Debug\C2_BLL.csprojAssemblyReference.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\obj\Debug\C2_BLL.csproj.CoreCompileInputs.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\C2_BLL.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\C2_BLL.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\C1_DAL.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\PseudoFramework.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\PseudoFramework.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\bin\Debug\C1_DAL.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\obj\Debug\C2_BLL.csproj.CopyComplete
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\obj\Debug\C2_BLL.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C2_BLL\obj\Debug\C2_BLL.pdb

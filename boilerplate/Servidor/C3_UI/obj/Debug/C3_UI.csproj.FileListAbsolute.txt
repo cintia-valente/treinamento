@@ -1,0 +1,14 @@
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\obj\Debug\C3_UI.csprojAssemblyReference.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\obj\Debug\C3_UI.csproj.CoreCompileInputs.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C3_UI.exe.config
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C3_UI.exe
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C3_UI.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C2_BLL.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\PseudoFramework.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C1_DAL.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\PseudoFramework.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C2_BLL.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\bin\Debug\C1_DAL.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\obj\Debug\C3_UI.csproj.CopyComplete
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\obj\Debug\C3_UI.exe
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\Servidor\C3_UI\obj\Debug\C3_UI.pdb
