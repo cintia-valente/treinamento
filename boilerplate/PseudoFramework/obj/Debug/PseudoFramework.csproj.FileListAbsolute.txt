@@ -1,0 +1,12 @@
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.pdb
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csprojAssemblyReference.cache
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csproj.CoreCompileInputs.cache
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Treinamento\curso-framework-mm4-banrisul-csharp\dia-06\16-exercicio1-boilerplate\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\bin\Debug\PseudoFramework.pdb
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csprojAssemblyReference.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.csproj.CoreCompileInputs.cache
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.dll
+C:\Users\B43815\Documents\ClienteServidorBoilerplate\PseudoFramework\obj\Debug\PseudoFramework.pdb
