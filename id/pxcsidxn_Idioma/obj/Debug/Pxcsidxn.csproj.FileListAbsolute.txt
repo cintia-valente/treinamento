@@ -1,0 +1,16 @@
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcsidxn.xml
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcsidxn.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcsidxn.pdb
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csprojAssemblyReference.cache
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csproj.CoreCompileInputs.cache
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csproj.CopyComplete
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.pdb
+c:\soft\Pxc\bin\Pxcsidxn.xml
+c:\soft\Pxc\bin\Pxcsidxn.dll
+c:\soft\Pxc\bin\Pxcsidxn.pdb
+C:\Desenvhome\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csproj.CoreCompileInputs.cache
+C:\Desenvhome\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.dll
+C:\Desenvhome\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.pdb
+C:\Desenvhome\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csproj.AssemblyReference.cache
+C:\Desenvhome\PXC\pxcsidxn_Idioma\obj\Debug\Pxcsidxn.csproj.Up2Date

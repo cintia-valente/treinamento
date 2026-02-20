@@ -1,0 +1,130 @@
+﻿<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Idioma</title>
+		<mm-folha-estilos arquivo="Pxcw00hn.css" />
+	</head>
+	<body>
+		<mm-tela id="telaFiltro" mm-titulo="Treinamento MM5 > Idioma > Filtro" mm-estado="Filtro" mm-tela-inicial mm-acoes-console="Incluir">
+			<mm-boxdados mm-titulo=":: Informe os campos e pressione Pesquisar ::" id="boxDadosFiltro">
+				<form id="formFiltro">
+					<div class="container">
+						<div class="col-1-12 tEsq">
+							<label for="txtFiltroCodIdioma">CodIdioma</label>
+						</div>
+						<div class="col-11-12">
+							<input type="mm-numerico" id="txtFiltroCodIdioma" maxlength="8" size="8" />
+						</div>
+					</div>
+					<div class="container">
+						<div class="col-1-12 tEsq">
+							<label for="txtFiltroCodigoIsoCombinado">CodigoIsoCombinado</label>
+						</div>
+						<div class="col-11-12">
+							<input type="mm-texto" id="txtFiltroCodigoIsoCombinado" maxlength="6" size="6" />
+						</div>
+					</div>
+				</form>
+			</mm-boxdados>
+			<div id="boxBotoesFiltro" class="boxbotoes">
+				<mm-botao mm-tipo="pesquisar" id="btnPesquisarFiltro" mm-oculto="Lista Cadastro">
+					Pesquisar
+				</mm-botao>
+				<mm-botao id="btnNovoFiltro" mm-oculto="Lista Cadastro">
+					Novo
+				</mm-botao>
+				<mm-botao id="btnLimparFiltroFiltro" mm-oculto="Lista Cadastro">
+					Limpar
+				</mm-botao>
+			</div>
+		</mm-tela>
+		<mm-tela id="telaLista" mm-titulo="Treinamento MM5 > Idioma > Lista" mm-estado="Lista" mm-acoes-console="Incluir Imprimir Pesquisar Voltar Paginar">
+			<mm-boxdados mm-titulo=":: Lista ::" id="boxDadosLista">
+				<form id="formLista">
+					<div class="container">
+						<div class="col-12-12">
+							<table id="lstIdioma" class="TabelaLista l100" mm-rodape>
+								<thead>
+									<tr>
+										<th class="tCen">CodIdioma</th>
+										<th class="tCen">CodigoIsoCombinado</th>
+										<th class="tCen">DescIdioma</th>
+										<th class="tCen">CodUsuario</th>
+										<th class="tCen">DthrUltAtu</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr mm-clone="registrousuario.linha" mm-onclick="oPxcsidhn.exibirIdioma('{@cod_idioma}');" mm-formatar="oPxcsidhn.formatarLinhaListaTabelalista">
+										<td mm-html="cod_idioma" class="tCen"></td>
+										<td mm-html="cod_iso_idioma" class="tCen"></td>
+										<td mm-html="desc_idioma" class="tCen"></td>
+										<td mm-html="cod_usuario" class="tCen"></td>
+										<td mm-html="dthr_ult_atu_formatado" class="tCen"></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</form>
+			</mm-boxdados>
+			<div id="boxBotoesLista" class="boxbotoes">
+				<mm-botao id="btnNovoLista" mm-oculto="Filtro Cadastro">
+					Novo
+				</mm-botao>
+				<mm-botao mm-tipo="imprimir" id="btnImprimirLista" mm-oculto="Filtro Cadastro">
+					Imprimir
+				</mm-botao>
+				<mm-botao id="btnVoltarLista" mm-oculto="Filtro Cadastro">
+					Voltar
+				</mm-botao>
+			</div>
+		</mm-tela>
+		<mm-tela id="telaCadastro" mm-titulo="Treinamento MM5 > Idioma > Cadastro" mm-estado="Cadastro" mm-acoes-console="Voltar Pesquisar Inclusao.Atualizar Consulta.Excluir Consulta.Incluir Alteracao.Incluir Alteracao.Atualizar Alteracao.Excluir">
+			<mm-boxdados mm-titulo=":: Dados do registro ::" id="boxDadosCadastro">
+				<form id="formCadastro">
+					
+					<div class="container">
+						<div mm-oculto="Filtro Lista" class="col-1-12 tEsq">
+							<label for="txtCadastroCodigoIsoCombinado">CodigoIsoCombinado</label>
+						</div>
+						<div mm-oculto="Filtro Lista" class="col-11-12">
+							<input type="text" id="txtCadastroCodigoIsoCombinado" maxlength="10" size="10" mm-value mm-desabilitar="Consulta" />
+						</div>
+					</div>
+					<div class="container">
+						<div mm-oculto="Filtro Lista" class="col-1-12 tEsq">
+							<label for="txtCadastroDescIdioma">DescIdioma</label>
+						</div>
+						<div mm-oculto="Filtro Lista" class="col-11-12">
+							<input type="text" id="txtCadastroDescIdioma" mm-regras="required" maxlength="50" size="50" mm-value="desc_idioma" mm-desabilitar="Consulta" />
+						</div>
+					</div>
+				
+				</form>
+			</mm-boxdados>
+			<div id="boxBotoesCadastro" class="boxbotoes">
+				<mm-botao id="btnNovoCadastro" mm-oculto="Filtro Lista Inclusao">
+					Novo
+				</mm-botao>
+				<mm-botao mm-tipo="incluir" id="btnIncluirCadastro" mm-oculto="Filtro Lista Alteracao Consulta">
+					Salvar
+				</mm-botao>
+				<mm-botao mm-tipo="salvar" id="btnSalvarCadastro" mm-oculto="Filtro Lista Inclusao Consulta">
+					Salvar
+				</mm-botao>
+				<mm-botao id="btnHabilitarCadastro" mm-oculto="Filtro Lista Inclusao Alteracao">
+					Habilitar
+				</mm-botao>
+				<mm-botao mm-tipo="excluir" id="btnExcluirCadastro" mm-oculto="Filtro Lista Inclusao">
+					Excluir
+				</mm-botao>
+				<mm-botao id="btnLimparCadastroCadastro" mm-oculto="Filtro Lista Consulta">
+					Limpar
+				</mm-botao>
+				<mm-botao id="btnVoltarCadastro" mm-oculto="Filtro Lista">
+					Voltar
+				</mm-botao>
+			</div>
+		</mm-tela>
+	</body>
+</html>

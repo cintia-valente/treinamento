@@ -1,0 +1,13 @@
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcqidxn.xml
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcqidxn.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\Soft\Pxc\bin\Pxcqidxn.pdb
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.csproj.CoreCompileInputs.cache
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.dll
+C:\Users\B43815\OneDrive - Banrisul S.A\Área de Trabalho\01-solucao-to-camada-q-camada-s-camada-u-boilerplate\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.pdb
+c:\soft\Pxc\bin\Pxcqidxn.xml
+c:\soft\Pxc\bin\Pxcqidxn.dll
+c:\soft\Pxc\bin\Pxcqidxn.pdb
+C:\Desenvhome\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.csproj.CoreCompileInputs.cache
+C:\Desenvhome\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.dll
+C:\Desenvhome\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.pdb
+C:\Desenvhome\PXC\pxcqidxn_Idioma\obj\Debug\Pxcqidxn.csproj.AssemblyReference.cache

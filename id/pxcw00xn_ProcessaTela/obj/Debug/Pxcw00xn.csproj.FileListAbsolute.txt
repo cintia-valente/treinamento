@@ -1,0 +1,7 @@
+C:\Soft\Pxc\bin\Pxcw00xn.xml
+C:\Soft\Pxc\bin\Pxcw00xn.dll
+C:\Soft\Pxc\bin\Pxcw00xn.pdb
+C:\Desenvhome\PXC\pxcw00xn_ProcessaTela\obj\Debug\Pxcw00xn.csproj.CoreCompileInputs.cache
+C:\Desenvhome\PXC\pxcw00xn_ProcessaTela\obj\Debug\Pxcw00xn.dll
+C:\Desenvhome\PXC\pxcw00xn_ProcessaTela\obj\Debug\Pxcw00xn.pdb
+C:\Desenvhome\PXC\pxcw00xn_ProcessaTela\obj\Debug\Pxcw00xn.csproj.AssemblyReference.cache

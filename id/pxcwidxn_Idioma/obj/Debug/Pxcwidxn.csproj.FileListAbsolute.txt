@@ -1,0 +1,7 @@
+C:\soft\Pxc\bin\Pxcwidxn.XML
+C:\soft\Pxc\bin\Pxcwidxn.dll
+C:\soft\Pxc\bin\Pxcwidxn.pdb
+C:\Desenvhome\PXC\pxcwidxn_Idioma\obj\Debug\Pxcwidxn.csproj.CoreCompileInputs.cache
+C:\Desenvhome\PXC\pxcwidxn_Idioma\obj\Debug\Pxcwidxn.dll
+C:\Desenvhome\PXC\pxcwidxn_Idioma\obj\Debug\Pxcwidxn.pdb
+C:\Desenvhome\PXC\pxcwidxn_Idioma\obj\Debug\Pxcwidxn.csproj.AssemblyReference.cache
