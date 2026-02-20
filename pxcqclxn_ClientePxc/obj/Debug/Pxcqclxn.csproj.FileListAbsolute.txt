@@ -1,0 +1,13 @@
+C:\Desenvhome\PXC\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csproj.CoreCompileInputs.cache
+C:\Soft\Pxc\bin\Pxcqclxn.xml
+C:\Soft\Pxc\bin\Pxcqclxn.dll
+C:\Soft\Pxc\bin\Pxcqclxn.pdb
+C:\Desenvhome\PXC\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csproj.CopyComplete
+C:\Desenvhome\PXC\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.dll
+C:\Desenvhome\PXC\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.pdb
+C:\Desenvhome\PXC_Cliente\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csproj.CoreCompileInputs.cache
+C:\Desenvhome\PXC_Cliente\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.dll
+C:\Desenvhome\PXC_Cliente\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.pdb
+C:\Desenvhome\PXC_Cliente\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csprojAssemblyReference.cache
+C:\Desenvhome\PXC_Cliente\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csproj.CopyComplete
+C:\Desenvhome\PXC\pxcqclxn_ClientePxc\obj\Debug\Pxcqclxn.csprojAssemblyReference.cache
